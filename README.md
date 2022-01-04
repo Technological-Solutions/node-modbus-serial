@@ -2,9 +2,9 @@
 
 A pure JavaScript implemetation of MODBUS-RTU (Serial and TCP) for NodeJS.
 
-[![NPM download](https://img.shields.io/npm/dm/modbus-serial.svg)](http://www.npm-stats.com/~packages/modbus-serial)
+<!-- [![NPM download](https://img.shields.io/npm/dm/modbus-serial.svg)](http://www.npm-stats.com/~packages/modbus-serial)
 [![NPM version](https://badge.fury.io/js/modbus-serial.png)](http://badge.fury.io/js/modbus-serial)
-![Build Status](https://github.com/yaacov/node-modbus-serial/workflows/ci/badge.svg)
+![Build Status](https://github.com/yaacov/node-modbus-serial/workflows/ci/badge.svg) -->
 
 
 Modbus is a serial communications protocol, first used in 1979.
@@ -24,11 +24,11 @@ easy to deploy and maintain.
 
 #### Install
 
-    npm install modbus-serial
+    npm install https://github.com/Technological-Solutions/node-modbus-serial.git
 
-try these options on npm install to build, if you have problems to install
+<!-- try these options on npm install to build, if you have problems to install
 
-    --unsafe-perm --build-from-source
+    --unsafe-perm --build-from-source -->
 
 
 #### What can I do with this module ?
