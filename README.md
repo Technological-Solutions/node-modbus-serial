@@ -24,7 +24,7 @@ easy to deploy and maintain.
 
 #### Install
 
-    npm install https://github.com/Technological-Solutions/node-modbus-serial.git
+    npm install https://github.com/technological-solutions/node-modbus-serial.git
 
 <!-- try these options on npm install to build, if you have problems to install
 
